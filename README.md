@@ -235,4 +235,4 @@ Copyright (c) 2019 Shellyl_N and Authors.
 Upon requests from friends that are homeschooing kids during covid.
 Using a Kanban as a management tool for there to be productive open
 format, while not having to talk about every detail through the day.
-~Anthony Pekearo 👨🏻‍🔬
+~Anthony Pekearo
