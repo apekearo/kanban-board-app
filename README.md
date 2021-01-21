@@ -230,3 +230,9 @@ table.KanbanBoardView-board td.status-backlog.team-or-story-team-b {
 ## License
 [ISC](https://github.com/shellyln/kanban-board-app/blob/master/LICENSE.md)  
 Copyright (c) 2019 Shellyl_N and Authors.
+
+## Making Home Skool Edition
+Upon requests from friends that are homeschooing kids during covid.
+Using a Kanban as a management tool for there to be productive open
+format, while not having to talk about every detail through the day.
+~Anthony Pekearo
